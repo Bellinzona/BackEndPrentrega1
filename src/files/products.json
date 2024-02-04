@@ -1,0 +1,31 @@
+{
+	"items": [
+		{
+			"id": 4,
+			"titulo": "milanesa de cerdoss premium",
+			"descripcion": "rica milanga",
+			"codigo": 846,
+			"precio": 6200,
+			"status": "ok",
+			"stock": 20
+		},
+		{
+			"id": 1,
+			"titulo": "milanesa de caarneee premium",
+			"descripcion": "rica milanga",
+			"codigo": 846,
+			"precio": 6200,
+			"status": "ok",
+			"stock": 20
+		},
+		{
+			"id": 2,
+			"titulo": "milanesa de nalga premiumss",
+			"descripcion": "rica milanga",
+			"codigo": 846,
+			"precio": 6200,
+			"status": "ok",
+			"stock": 20
+		}
+	]
+}

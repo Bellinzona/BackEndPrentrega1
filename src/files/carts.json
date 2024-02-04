@@ -1,0 +1,22 @@
+{
+	"carritos": [
+		{
+			"id": 1,
+			"items": [
+				{
+					"item": "2",
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"items": [
+				{
+					"item": "2",
+					"quantity": 1
+				}
+			]
+		}
+	]
+}
